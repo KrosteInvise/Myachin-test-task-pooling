@@ -13,15 +13,15 @@ MonoBehaviour:
   m_Name: WaveConfig
   m_EditorClassIdentifier: 
   waves:
-  - enemyType: {fileID: 0}
-    enemyCount: 0
-    spawnInterval: 0
+  - enemyType: {fileID: 11400000, guid: f6c8aa7567a52d049a6125a6c8f250f5, type: 2}
+    enemyCount: 20
+    spawnInterval: 0.5
     delayToNextWave: 0
-  - enemyType: {fileID: 0}
-    enemyCount: 0
-    spawnInterval: 0
-    delayToNextWave: 0
-  - enemyType: {fileID: 0}
-    enemyCount: 0
-    spawnInterval: 0
-    delayToNextWave: 0
+  - enemyType: {fileID: 11400000, guid: 74dbf546beafc134082c32292029f0c3, type: 2}
+    enemyCount: 30
+    spawnInterval: 0.5
+    delayToNextWave: 5
+  - enemyType: {fileID: 11400000, guid: 79793e2409bdb384f84becc96092067a, type: 2}
+    enemyCount: 15
+    spawnInterval: 0.5
+    delayToNextWave: 5
